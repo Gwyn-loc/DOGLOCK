@@ -10,7 +10,6 @@ class AnalogLockClock:
         self.root.title("DOG LOCK - SETUP")
         self.root.geometry("400x480")
 
-        # Named for personal use
         self.folder_path = os.path.expanduser(r"C:\Users\Joerel Neri\Documents\PRELIM FOLDER")
 
 
